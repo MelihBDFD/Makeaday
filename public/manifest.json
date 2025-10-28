@@ -1,0 +1,14 @@
+{
+  "name": "FocusFlow Pro - Görev Planlayıcı",
+  "short_name": "FocusFlow",
+  "description": "Akıllı görev yönetimi ve üretkenlik uygulaması",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["productivity", "utilities"],
+  "lang": "tr",
+  "dir": "ltr"
+}
